@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="dach.ink" tvg-logo="dach.png", [COLOR deeppink]DACH Senderliste - Deutschland Österreich Schweiz[/COLOR]
-http://hls.tv.iptv.ink/iptvink@000000.m3u8|X-Forwarded-For=78.42.18.55
+#EXTINF:0001,ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:0002,ZDF HD
+http://62.65.140.148:80/session/b57c0cb4-d1a9-11e5-bd4d-005056bc49ac/nvnv5a/2/1166/4240000/index.m3u8?token=07730f604baad291e5e7e3951a31a0ad_1454776460_1454776460&p=127|X-Forwarded-For=85.3.39.244
 #EXTINF:-1,3+ HD
 http://62.65.140.151:80/session/79f5de22-d1a9-11e5-bd4d-005056bc49ac/nvnv5a/1/1013/4240000/index.m3u8?token=14cf21ff48a9c3595dc61e7c53f0e53a_1454776355_1454776355&p=127|X-Forwarded-For=85.0.230.207
 #EXTINF:-1,3sat HD
@@ -13,8 +15,6 @@ http://62.65.140.149:80/session/7b5e3e80-d1a9-11e5-bd4d-005056bc49ac/nvnv5a/1/10
 http://62.65.140.150:80/session/7c58c5da-d1a9-11e5-b7a6-005056bc06d1/nvnv5a/1/1134/4240000/index.m3u8?token=0c934c9633860d0bf69fd4e1039fb57b_1454776357_1454776357&p=127|X-Forwarded-For=85.4.108.237
 #EXTINF:-1,ARD HD
 http://62.65.140.151:80/session/7ccce866-d1a9-11e5-9ef6-005056bc06d1/nvnv5a/2/1165/4240000/index.m3u8?token=b7961791f3357afdc1729c649bc2592a_1454776358_1454776358&p=127|X-Forwarded-For=85.3.231.157
-#EXTINF:-1,ARD
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 #EXTINF:-1,Arte HD
 http://62.65.140.213:80/session/7dc30dae-d1a9-11e5-8208-005056bc49ac/nvnv5a/1/1150/4240000/index.m3u8?token=16df439880127959ff26c4be762d37cf_1454776359_1454776359&p=127|X-Forwarded-For=85.0.206.191
 #EXTINF:-1,Arte
@@ -123,8 +123,6 @@ http://62.65.140.215:80/session/b703939a-d1a9-11e5-a5c9-005056bc1a52/nvnv5a/1/11
 http://62.65.140.154:80/session/b68401d4-d1a9-11e5-9ef6-005056bc06d1/nvnv5a/1/1118/4240000/index.m3u8?token=6c750ed89d3ea675d62cf7482eb877a6_1454776459_1454776459&p=127|X-Forwarded-For=85.6.183.161
 #EXTINF:-1,ZDFkultur HD
 http://62.65.140.216:80/session/b5ff0786-d1a9-11e5-b7a6-005056bc06d1/nvnv5a/1/1119/4240000/index.m3u8?token=7f70f6842069194ff0c18bc01ffc6249_1454776460_1454776460&p=127|X-Forwarded-For=85.6.209.35
-#EXTINF:-1,ZDF HD
-http://62.65.140.148:80/session/b57c0cb4-d1a9-11e5-bd4d-005056bc49ac/nvnv5a/2/1166/4240000/index.m3u8?token=07730f604baad291e5e7e3951a31a0ad_1454776460_1454776460&p=127|X-Forwarded-For=85.3.39.244
 #EXTINF:-1,ZDFneo HD
 http://62.65.140.214:80/session/b4ff8734-d1a9-11e5-a43c-005056bc1a52/nvnv5a/1/1121/4240000/index.m3u8?token=25f8ba7009932615219d4d8b18e5f847_1454776461_1454776461&p=127|X-Forwarded-For=85.3.78.35
 #EXTINF:-1,hr HD
