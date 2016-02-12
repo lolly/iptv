@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0001,ARD
+#EXTINF:-1,ARD
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:0002,ZDF HD
+#EXTINF:-1,ZDF HD
 http://62.65.140.148:80/session/b57c0cb4-d1a9-11e5-bd4d-005056bc49ac/nvnv5a/2/1166/4240000/index.m3u8?token=07730f604baad291e5e7e3951a31a0ad_1454776460_1454776460&p=127|X-Forwarded-For=85.3.39.244
 #EXTINF:-1,3+ HD
 http://62.65.140.151:80/session/79f5de22-d1a9-11e5-bd4d-005056bc49ac/nvnv5a/1/1013/4240000/index.m3u8?token=14cf21ff48a9c3595dc61e7c53f0e53a_1454776355_1454776355&p=127|X-Forwarded-For=85.0.230.207
@@ -161,3 +161,41 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
 #EXTINF:-1,Sport Time TV 3
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1,DE_Syfy-HD
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/729.ts
+#EXTINF:-1,DE_SPORT-TIME-TV4HD
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/733.ts
+#EXTINF:-1,DE_SPORT-TIME-TV3HD
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/734.ts
+#EXTINF:-1,DE_SPORT-TIME-TV2HD
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/735.ts
+#EXTINF:-1,DE_SPORT-TIME-TV1HD
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/736.ts
+#EXTINF:-1,DE_Sky-SportHD2
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/737.ts
+#EXTINF:-1,DE_Sky-SportHD1
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/738.ts
+#EXTINF:-1,DE_Sky-Sport-Austria
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/758.ts
+#EXTINF:-1,DE_Sky-Krimi
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/743.ts
+#EXTINF:-1,DE_SKY-Hits
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/744.ts
+#EXTINF:-1,DE_Sky-Emotion
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/746.ts
+#EXTINF:-1,DE_Sky-Cinema-HD
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/747.ts
+#EXTINF:-1,DE_Sky-Comedy
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/748.ts
+#EXTINF:-1,DE_Sky-Cinema24
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/749.ts
+#EXTINF:-1,DE_National-Geographic-Wild
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/751.ts
+#EXTINF:-1,DE_HistoryHD
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/752.ts
+#EXTINF:-1,DE_Sky-Bundesliga-HD1
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/755.ts
+#EXTINF:-1,DE_MGM
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/756.ts
+#EXTINF:-1,DE_13TH-StreetHD
+http://37.187.142.232:8000/live/skype:play.iptv/skype:play.iptv/757.ts
