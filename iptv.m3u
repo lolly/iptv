@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, [COLOR deeppink]DACH Senderliste - Deutschland Österreich Schweiz[/COLOR]
-http://hls.tv.iptv.ink/iptvink@000000.m3u8|X-Forwarded-For=78.42.18.55
 #EXTINF:-1,3+ HD
 http://62.65.140.151:80/session/79f5de22-d1a9-11e5-bd4d-005056bc49ac/nvnv5a/1/1013/4240000/index.m3u8?token=14cf21ff48a9c3595dc61e7c53f0e53a_1454776355_1454776355&p=127|X-Forwarded-For=85.0.230.207
 #EXTINF:-1,3sat HD
@@ -171,3 +169,37 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1,VEVO DE
 http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
+#EXTINF:-1,NFL Network
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1,World Fashion Channel
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1,NASA TV (HQ)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Private tv +18
+http://185.38.12.20:8088/private/
+#EXTINF:-1,Hustler HD 3D +18
+http://185.38.12.20:8088/hustler_hd/
+#EXTINF:-1,Canal_01
+http://199.195.195.108:32001
+#EXTINF:-1,Canal_02
+http://199.195.195.108:32002
+#EXTINF:-1,Canal_03
+http://199.195.195.108:32003
+#EXTINF:-1,Canal_04
+http://199.195.195.108:32004
+#EXTINF:-1,Canal_05
+http://199.195.195.108:32005
+#EXTINF:-1,Canal_06
+http://199.195.195.108:32006 
+#EXTINF:-1,HOT tv Portugal +18
+http://myplace.dnsalias.com:6262/live/pt/gratis/24.ts 
+#EXTINF:-1,PassieXXX TV
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1,vodlive 1 
+http://cdn5.iviplanet.com:1935/VODLive1/_definst_/smil:vodlive1.smil/chunklist_w1867210502_b1300000.m3u8
+#EXTINF:-1,vodlive 2 
+http://cdn5.iviplanet.com:1935/VODLive2/_definst_/smil:vodlive2.smil/chunklist_w1354878964_b1300000.m3u8
+#EXTINF:-1,vodlive 3 
+http://cdn5.iviplanet.com:1935/VODLive3/_definst_/smil:vodlive3.smil/chunklist_w1633630483_b1200000.m3u8
