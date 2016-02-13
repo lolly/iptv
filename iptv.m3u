@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="dach.ink" tvg-logo="dach.png", [COLOR deeppink]DACH Senderliste - Deutschland Österreich Schweiz[/COLOR]
+#EXTINF:-1, [COLOR deeppink]DACH Senderliste - Deutschland Österreich Schweiz[/COLOR]
 http://hls.tv.iptv.ink/iptvink@000000.m3u8|X-Forwarded-For=78.42.18.55
 #EXTINF:-1,3+ HD
 http://62.65.140.151:80/session/79f5de22-d1a9-11e5-bd4d-005056bc49ac/nvnv5a/1/1013/4240000/index.m3u8?token=14cf21ff48a9c3595dc61e7c53f0e53a_1454776355_1454776355&p=127|X-Forwarded-For=85.0.230.207
