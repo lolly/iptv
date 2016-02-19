@@ -119,6 +119,8 @@ http://tvservice.webhop.me:80/live/Altair/Altair/2608.m3u8
 http://tvservice.webhop.me:80/live/Altair/Altair/2607.m3u8
 #EXTINF:-1,RTL
 http://tvservice.webhop.me:80/live/Altair/Altair/1599.m3u8
+#EXTINF:-1,RTL 2
+http://tvservice.webhop.me:80/live/Altair/Altair/1600.m3u8
 #EXTINF:-1,Super Rtl
 http://tvservice.webhop.me:80/live/Altair/Altair/1601.m3u8
 #EXTINF:-1,RTL Nitro DE
