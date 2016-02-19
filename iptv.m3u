@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,RTL2
-http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/master.m3u8
+http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/master.m3u8|X-Forwarded-For=85.0.230.207
