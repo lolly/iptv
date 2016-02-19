@@ -1,3 +1,391 @@
 #EXTM3U
+#EXTINF:-1,Das Erste
+http://c004.p112.edgesuite.net/i/c004/daserste_1@97481/master.m3u8
+#EXTINF:-1,ZDF
+http://c004.p112.edgesuite.net/i/c004/zdf_1@97483/master.m3u8
+#EXTINF:-1,RTL
+http://c004.p106.edgesuite.net/i/c004/rtl_1@97459/master.m3u8
+#EXTINF:-1,SAT.1
+http://c004.p107.edgesuite.net/i/c004/sat1_1@97461/master.m3u8
+#EXTINF:-1,ProSieben
+http://c004.p106.edgesuite.net/i/c004/prosieben_1@97456/master.m3u8
 #EXTINF:-1,RTL2
-http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/master.m3u8|X-Forwarded-For=176.10.100.2
+http://c004.p107.edgesuite.net/i/c004/rtl2_1@97460/master.m3u8
+#EXTINF:-1,Kabel Eins
+http://c004.p105.edgesuite.net/i/c004/kabeleins_1@97453/master.m3u8
+#EXTINF:-1,VOX
+http://c004.p108.edgesuite.net/i/c004/vox_1@97466/master.m3u8
+#EXTINF:-1,sixx
+http://c004.p107.edgesuite.net/i/c004/sixx_1@97462/master.m3u8
+#EXTINF:-1,RTLNITRO
+http://c004.p106.edgesuite.net/i/c004/rtlnitro_1@97458/master.m3u8
+#EXTINF:-1,ProSieben MAXX
+http://c004.p107.edgesuite.net/i/c004/pro7maxx_1@97522/master.m3u8
+#EXTINF:-1,SUPER RTL
+http://c004.p107.edgesuite.net/i/c004/superrtl_1@97463/master.m3u8
+#EXTINF:-1,Tele 5
+http://c004.p108.edgesuite.net/i/c004/tele5_1@97465/master.m3u8
+#EXTINF:-1,DMAX
+http://c004.p104.edgesuite.net/i/c004/dmax_1@97398/master.m3u8
+#EXTINF:-1,Nickelodeon CH
+http://c004.p105.edgesuite.net/i/c004/nickcc_1@97455/master.m3u8
+#EXTINF:-1,VIVA/COMEDY CENTRAL
+http://c004.p105.edgesuite.net/i/c004/viva_1@97493/master.m3u8
+#EXTINF:-1,Sport1
+http://c004.p108.edgesuite.net/i/c004/sport1_1@97464/master.m3u8
+#EXTINF:-1,N24
+http://c004.p104.edgesuite.net/i/c004/n24_1@97406/master.m3u8
+#EXTINF:-1,n-tv
+http://c004.p104.edgesuite.net/i/c004/ntv_1@97405/master.m3u8
+#EXTINF:-1,SRF 1
+http://c004.p110.edgesuite.net/i/c004/sf1_1@97474/master.m3u8
+#EXTINF:-1,SRF 2
+http://c004.p110.edgesuite.net/i/c004/sf2_1@97475/master.m3u8
+#EXTINF:-1,SRF info
+http://c004.p104.edgesuite.net/i/c004/sfinfo_1@97408/master.m3u8
+#EXTINF:-1,ORF 1
+http://c004.p113.edgesuite.net/i/c004/orf1_1@97573/master.m3u8
+#EXTINF:-1,ORF 2
+http://c004.p113.edgesuite.net/i/c004/orf2_1@97574/master.m3u8
+#EXTINF:-1,3+
+http://c004.p114.edgesuite.net/i/c004/3plus_1@97489/master.m3u8
+#EXTINF:-1,Eurosport DE
+http://c004.p105.edgesuite.net/i/c004/eurosportde_1@97452/master.m3u8
+#EXTINF:-1,TeleZüri
+http://c004.p119.edgesuite.net/i/c004/tzurich_1@135275/master.m3u8
+#EXTINF:-1,TeleSüdostschweiz
+http://c004.p119.edgesuite.net/i/c004/tsudost_1@135274/master.m3u8
+#EXTINF:-1,CNN Int.
+http://c004.p105.edgesuite.net/i/c004/cnn_1@97501/master.m3u8
+#EXTINF:-1,BBC World
+http://c004.p105.edgesuite.net/i/c004/bbcworld_1@97498/master.m3u8
+#EXTINF:-1,RTS Un
+http://c004.p109.edgesuite.net/i/c004/rts1_1@97469/master.m3u8
+#EXTINF:-1,RTS Deux
+http://c004.p109.edgesuite.net/i/c004/rts2_1@97470/master.m3u8
+#EXTINF:-1,TV5Monde
+http://c004.p103.edgesuite.net/i/c004/tv5monde_1@97380/master.m3u8
+#EXTINF:-1,France 2
+http://c004.p101.edgesuite.net/i/c004/france2_1@97347/master.m3u8
+#EXTINF:-1,France 2 HD
+http://c004.p100.edgesuite.net/i/c004/france2hd_1@97420/master.m3u8
+#EXTINF:-1,France 3
+http://c004.p100.edgesuite.net/i/c004/france3_1@97329/master.m3u8
+#EXTINF:-1,France 4
+http://c004.p100.edgesuite.net/i/c004/france4_1@97330/master.m3u8
+#EXTINF:-1,France 5
+http://c004.p102.edgesuite.net/i/c004/france5_1@97351/master.m3u8
+#EXTINF:-1,France Ô
+http://c004.p122.edgesuite.net/i/c004/franceo_1@137770/master.m3u8
+#EXTINF:-1,RTL9
+http://c004.p102.edgesuite.net/i/c004/rtl9_1@97354/master.m3u8
+#EXTINF:-1,TF1
+http://c004.p109.edgesuite.net/i/c004/tf1_1@97468/master.m3u8
+#EXTINF:-1,M6
+http://c004.p108.edgesuite.net/i/c004/m6_1@97467/master.m3u8
+#EXTINF:-1,arte FR
+http://c004.p101.edgesuite.net/i/c004/artefr_1@97346/master.m3u8
+#EXTINF:-1,RSI La 1
+http://c004.p110.edgesuite.net/i/c004/rsila1_1@97472/master.m3u8
+#EXTINF:-1,RSI La 2
+http://c004.p110.edgesuite.net/i/c004/rsila2_1@97473/master.m3u8
+#EXTINF:-1,Rai 1
+http://c004.p103.edgesuite.net/i/c004/rai1_1@97382/master.m3u8
+#EXTINF:-1,Rouge TV
+http://c004.p102.edgesuite.net/i/c004/rouge_1@97359/master.m3u8
+#EXTINF:-1,Servus TV
+http://c004.p114.edgesuite.net/i/c004/servus_1@97488/master.m3u8
+#EXTINF:-1,ATV
+http://c004.p114.edgesuite.net/i/c004/atv_1@97491/master.m3u8
+#EXTINF:-1,canal 9
+http://c004.p117.edgesuite.net/i/c004/c9_1@135252/master.m3u8
+#EXTINF:-1,canal alpha
+http://c004.p117.edgesuite.net/i/c004/caju_1@135253/master.m3u8
+#EXTINF:-1,Tele 1
+http://c004.p118.edgesuite.net/i/c004/t1_1@135267/master.m3u8
+#EXTINF:-1,TELE TOP TG
+http://c004.p120.edgesuite.net/i/c004/tttg_1@135278/master.m3u8
+#EXTINF:-1,TELE TOP ZH
+http://c004.p119.edgesuite.net/i/c004/ttzh_1@135271/master.m3u8
+#EXTINF:-1,TELE TOP SH
+http://c004.p120.edgesuite.net/i/c004/ttsh_1@135279/master.m3u8
+#EXTINF:-1,TeleOstschweiz
+http://c004.p118.edgesuite.net/i/c004/tost_1@135270/master.m3u8
+#EXTINF:-1,Tele M1 Ost
+http://c004.p118.edgesuite.net/i/c004/tm1o_1@135268/master.m3u8
+#EXTINF:-1,canal alpha NE
+http://c004.p117.edgesuite.net/i/c004/cane_1@135254/master.m3u8
+#EXTINF:-1,teleticino
+http://c004.p117.edgesuite.net/i/c004/tticino_1@135255/master.m3u8
+#EXTINF:-1,Telebasel
+http://c004.p119.edgesuite.net/i/c004/tbasel_1@135273/master.m3u8
+#EXTINF:-1,TeleBärn
+http://c004.p119.edgesuite.net/i/c004/tbarn_1@135272/master.m3u8
+#EXTINF:-1,TeleBielingue
+http://c004.p120.edgesuite.net/i/c004/tbielingue_1@135280/master.m3u8
+#EXTINF:-1,Italia 1
+http://c004.p103.edgesuite.net/i/c004/italia1_1@97381/master.m3u8
+#EXTINF:-1,Das Erste HD
+http://c004.p104.edgesuite.net/i/c004/daserstehd_1@97395/master.m3u8
+#EXTINF:-1,ZDF HD
+http://c004.p108.edgesuite.net/i/c004/zdfhd_1@97431/master.m3u8
+#EXTINF:-1,arte DE
+http://c004.p107.edgesuite.net/i/c004/artede_1@97463/master.m3u8
+#EXTINF:-1,arte HD DE
+http://c004.p104.edgesuite.net/i/c004/artedehd_1@97394/master.m3u8
+#EXTINF:-1,3sat
+http://c004.p112.edgesuite.net/i/c004/3sat_1@97480/master.m3u8
+#EXTINF:-1,3sat HD
+http://c004.p104.edgesuite.net/i/c004/3sathd_1@97393/master.m3u8
+#EXTINF:-1,NDR
+http://c004.p113.edgesuite.net/i/c004/ndr_1@97484/master.m3u8
+#EXTINF:-1,NDR HD
+http://c004.p105.edgesuite.net/i/c004/ndrhd_1@97424/master.m3u8
+#EXTINF:-1,WDR
+http://c004.p114.edgesuite.net/i/c004/wdr_1@97490/master.m3u8
+#EXTINF:-1,WDR HD
+http://c004.p107.edgesuite.net/i/c004/wdrhd_1@97430/master.m3u8
+#EXTINF:-1,MDR
+http://c004.p123.edgesuite.net/i/c004/mdr_1@137782/master.m3u8
+#EXTINF:-1,BR
+http://c004.p107.edgesuite.net/i/c004/br3_1@97517/master.m3u8
+#EXTINF:-1,BR HD
+http://c004.p101.edgesuite.net/i/c004/br3_hd_1@97418/master.m3u8
+#EXTINF:-1,SWR
+http://c004.p113.edgesuite.net/i/c004/swr_1@97485/master.m3u8
+#EXTINF:-1,SWR HD
+http://c004.p107.edgesuite.net/i/c004/swrhd_1@97429/master.m3u8
+#EXTINF:-1,HR
+http://c004.p123.edgesuite.net/i/c004/hr_1@137778/master.m3u8
+#EXTINF:-1,HR HD
+http://c004.p113.edgesuite.net/i/c004/hr_hd_1@97447/master.m3u8
+#EXTINF:-1,RBB
+http://c004.p106.edgesuite.net/i/c004/rbb_1@97457/master.m3u8
+#EXTINF:-1,RBB HD
+http://c004.p114.edgesuite.net/i/c004/rbb_hd_1@97449/master.m3u8
+#EXTINF:-1,Phoenix
+http://c004.p111.edgesuite.net/i/c004/phoenix_1@97476/master.m3u8
+#EXTINF:-1,Phoenix HD
+http://c004.p107.edgesuite.net/i/c004/phoenixhd_1@97428/master.m3u8
+#EXTINF:-1,ARDalpha
+http://c004.p123.edgesuite.net/i/c004/bralpha_1@137776/master.m3u8
+#EXTINF:-1,N24 HD
+http://c004.p109.edgesuite.net/i/c004/n24hd_1@97436/master.m3u8
+#EXTINF:-1,Disney Channel CH
+http://c004.p104.edgesuite.net/i/c004/disney_channel_de_1@97396/master.m3u8
+#EXTINF:-1,Servus TV HD
+http://c004.p106.edgesuite.net/i/c004/servushd_1@97425/master.m3u8
+#EXTINF:-1,KiKA
+http://c004.p113.edgesuite.net/i/c004/kika_1@97487/master.m3u8
+#EXTINF:-1,KIKA HD
+http://c004.p105.edgesuite.net/i/c004/kikahd_1@97423/master.m3u8
+#EXTINF:-1,ZDFneo
+http://c004.p111.edgesuite.net/i/c004/zdfneo_1@97479/master.m3u8
+#EXTINF:-1,ZDFneo HD
+http://c004.p109.edgesuite.net/i/c004/zdfneohd_1@97434/master.m3u8
+#EXTINF:-1,ZDF.kultur
+http://c004.p111.edgesuite.net/i/c004/zdfkultur_1@97478/master.m3u8
+#EXTINF:-1,ZDF.kultur HD
+http://c004.p108.edgesuite.net/i/c004/zdfkulturhd_1@97433/master.m3u8
+#EXTINF:-1,ZDF INFO
+http://c004.p111.edgesuite.net/i/c004/zdfinfo_1@97477/master.m3u8
+#EXTINF:-1,ZDF INFO HD
+http://c004.p108.edgesuite.net/i/c004/zdfinfohd_1@97432/master.m3u8
+#EXTINF:-1,EinsPlus
+http://c004.p123.edgesuite.net/i/c004/einsplus_1@137775/master.m3u8
+#EXTINF:-1,EinsPlus HD
+http://c004.p113.edgesuite.net/i/c004/einsplus_hd_1@97446/master.m3u8
+#EXTINF:-1,einsfestival
+http://c004.p112.edgesuite.net/i/c004/einsfestival_1@97482/master.m3u8
+#EXTINF:-1,einsfestival HD
+http://c004.p105.edgesuite.net/i/c004/einsfestivalhd_1@97422/master.m3u8
+#EXTINF:-1,tagesschau24
+http://c004.p123.edgesuite.net/i/c004/tagesschau24_1@137781/master.m3u8
+#EXTINF:-1,tagesschau24 HD
+http://c004.p114.edgesuite.net/i/c004/tagesschau24_hd_1@97450/master.m3u8
+#EXTINF:-1,DELUXEMUSIC
+http://c004.p123.edgesuite.net/i/c004/deluxemusic_1@137777/master.m3u8
+#EXTINF:-1,Anixe
+http://c004.p113.edgesuite.net/i/c004/anixe_1@97486/master.m3u8
+#EXTINF:-1,Anixe HD
+http://c004.p111.edgesuite.net/i/c004/anixehd_1@97440/master.m3u8
+#EXTINF:-1,RIC
+http://c004.p123.edgesuite.net/i/c004/ric_1@137780/master.m3u8
+#EXTINF:-1,DW-TV
+http://c004.p104.edgesuite.net/i/c004/dwtv_1@97397/master.m3u8
+#EXTINF:-1,K-TV
+http://c004.p104.edgesuite.net/i/c004/ktv_1@97400/master.m3u8
+#EXTINF:-1,ORF 1 HD
+http://c004.p101.edgesuite.net/i/c004/orf1hd_1@97416/master.m3u8
+#EXTINF:-1,ORF 2 HD
+http://c004.p101.edgesuite.net/i/c004/orf2hd_1@97417/master.m3u8
+#EXTINF:-1,SRF 1 HD
+http://c004.p106.edgesuite.net/i/c004/sf1hd_1@97426/master.m3u8
+#EXTINF:-1,SRF 2 HD
+http://c004.p106.edgesuite.net/i/c004/sf2hd_1@97427/master.m3u8
+#EXTINF:-1,S1TV HD
+http://c004.p117.edgesuite.net/i/c004/s1tvhd_1@135250/master.m3u8
+#EXTINF:-1,TV24
+http://c004.p111.edgesuite.net/i/c004/tv24_1@97562/master.m3u8
+#EXTINF:-1,TV24 HD
+http://c004.p128.edgesuite.net/i/c004/tv24_hd_1@180322/master.m3u8
+#EXTINF:-1,TeleZüri HD
+http://c004.p128.edgesuite.net/i/c004/tzurich_hd_1@180321/master.m3u8
+#EXTINF:-1,TF1 HD
+http://c004.p102.edgesuite.net/i/c004/tf1hd_1@97413/master.m3u8
+#EXTINF:-1,Canal+
+http://c004.p101.edgesuite.net/i/c004/canalplus_1@97337/master.m3u8
+#EXTINF:-1,M6 HD
+http://c004.p100.edgesuite.net/i/c004/m6hd_1@97421/master.m3u8
+#EXTINF:-1,RTS Un HD
+http://c004.p126.edgesuite.net/i/c004/rts1hd_1@114347/master.m3u8
+#EXTINF:-1,RTS Deux HD
+http://c004.p102.edgesuite.net/i/c004/rts2hd_1@97415/master.m3u8
+#EXTINF:-1,arte HD FR
+http://c004.p100.edgesuite.net/i/c004/artefrhd_1@97419/master.m3u8
+#EXTINF:-1,D8
+http://c004.p100.edgesuite.net/i/c004/d8_1@97328/master.m3u8
+#EXTINF:-1,W9 CH
+http://c004.p101.edgesuite.net/i/c004/w9_1@97344/master.m3u8
+#EXTINF:-1,TMC
+http://c004.p103.edgesuite.net/i/c004/tmc_1@97379/master.m3u8
+#EXTINF:-1,NT1
+http://c004.p108.edgesuite.net/i/c004/nt1_1@97528/master.m3u8
+#EXTINF:-1,NRJ12
+http://c004.p121.edgesuite.net/i/c004/nrj12_1@137759/master.m3u8
+#EXTINF:-1,BFM TV
+http://c004.p121.edgesuite.net/i/c004/bfmtv_1@137750/master.m3u8
+#EXTINF:-1,i-Tele
+http://c004.p121.edgesuite.net/i/c004/itele_1@137755/master.m3u8
+#EXTINF:-1,D17
+http://c004.p100.edgesuite.net/i/c004/d17_1@97327/master.m3u8
+#EXTINF:-1,Gulli
+http://c004.p102.edgesuite.net/i/c004/gulli_1@97352/master.m3u8
+#EXTINF:-1,HD1 HD
+http://c004.p110.edgesuite.net/i/c004/hd1hd_1@97437/master.m3u8
+#EXTINF:-1,Equipe HD
+http://c004.p110.edgesuite.net/i/c004/equipetvhd_1@97439/master.m3u8
+#EXTINF:-1,6ter HD
+http://c004.p112.edgesuite.net/i/c004/6terhd_1@97443/master.m3u8
+#EXTINF:-1,Numéro23 HD
+http://c004.p112.edgesuite.net/i/c004/n23hd_1@97444/master.m3u8
+#EXTINF:-1,RMC HD
+http://c004.p112.edgesuite.net/i/c004/rmchd_1@97445/master.m3u8
+#EXTINF:-1,Chérie HD
+http://c004.p110.edgesuite.net/i/c004/cheriehd_1@97438/master.m3u8
+#EXTINF:-1,BFM Business
+http://c004.p121.edgesuite.net/i/c004/bfmb_1@137749/master.m3u8
+#EXTINF:-1,France 24
+http://c004.p121.edgesuite.net/i/c004/france24_1@137754/master.m3u8
+#EXTINF:-1,euronews FR
+http://c004.p121.edgesuite.net/i/c004/euronews_1@137752/master.m3u8
+#EXTINF:-1,Montagne TV
+http://c004.p121.edgesuite.net/i/c004/montagne_1@137758/master.m3u8
+#EXTINF:-1,TVM3
+http://c004.p104.edgesuite.net/i/c004/tvm3_1@97401/master.m3u8
+#EXTINF:-1,KTO
+http://c004.p105.edgesuite.net/i/c004/kto_1@97495/master.m3u8
+#EXTINF:-1,BBC One
+http://c004.p109.edgesuite.net/i/c004/bbc1_1@97471/master.m3u8
+#EXTINF:-1,BBC One HD
+http://c004.p103.edgesuite.net/i/c004/bbc1hd_1@97412/master.m3u8
+#EXTINF:-1,BBC Two
+http://c004.p124.edgesuite.net/i/c004/bbc2_1@137786/master.m3u8
+#EXTINF:-1,BBC Two HD
+http://c004.p109.edgesuite.net/i/c004/bbc2hd_1@97435/master.m3u8
+#EXTINF:-1,BBC three/CBBC
+http://c004.p113.edgesuite.net/i/c004/bbc3_1@97575/master.m3u8
+#EXTINF:-1,BBC three HD/CBBC HD
+http://c004.p126.edgesuite.net/i/c004/bbc3_hd_1@180212/master.m3u8
+#EXTINF:-1,BBC Four/CBeebies
+http://c004.p123.edgesuite.net/i/c004/bbc4_1@137784/master.m3u8
+#EXTINF:-1,BBC Four HD/CBeebies HD
+http://c004.p126.edgesuite.net/i/c004/bbc4_hd_1@180211/master.m3u8
+#EXTINF:-1,iTV 1
+http://c004.p124.edgesuite.net/i/c004/itv1_1@137791/master.m3u8
+#EXTINF:-1,iTV 1 HD
+http://c004.p111.edgesuite.net/i/c004/itvhd_1@97442/master.m3u8
+#EXTINF:-1,iTV 2
+http://c004.p124.edgesuite.net/i/c004/itv2_1@137792/master.m3u8
+#EXTINF:-1,iTV 3
+http://c004.p105.edgesuite.net/i/c004/itv3_1@97494/master.m3u8
+#EXTINF:-1,iTV 4
+http://c004.p106.edgesuite.net/i/c004/itv4_1@97503/master.m3u8
+#EXTINF:-1,Channel 4 HD
+http://c004.p111.edgesuite.net/i/c004/channel4hd_1@97441/master.m3u8
+#EXTINF:-1,Channel 5
+http://c004.p124.edgesuite.net/i/c004/channel5_1@137787/master.m3u8
+#EXTINF:-1,E4
+http://c004.p124.edgesuite.net/i/c004/e4_1@137789/master.m3u8
+#EXTINF:-1,More4
+http://c004.p124.edgesuite.net/i/c004/more4_1@137795/master.m3u8
+#EXTINF:-1,Film4
+http://c004.p124.edgesuite.net/i/c004/film4_1@137790/master.m3u8
+#EXTINF:-1,Fashion TV
+http://c004.p106.edgesuite.net/i/c004/fashiontv_1@97512/master.m3u8
+#EXTINF:-1,travel CHANNEL
+http://c004.p113.edgesuite.net/i/c004/travelchannel_1@97576/master.m3u8
+#EXTINF:-1,BBC News HD
+http://c004.p127.edgesuite.net/i/c004/bbcnewshd_1@180318/master.m3u8
+#EXTINF:-1,CCTV News
+http://c004.p101.edgesuite.net/i/c004/cctvnews_1@97342/master.m3u8
+#EXTINF:-1,Al Jazeera
+http://c004.p123.edgesuite.net/i/c004/aljazeera_1@137783/master.m3u8
+#EXTINF:-1,Bloomberg TV
+http://c004.p124.edgesuite.net/i/c004/bloomberg_1@137785/master.m3u8
+#EXTINF:-1,CNBC
+http://c004.p124.edgesuite.net/i/c004/cnbc_1@137788/master.m3u8
+#EXTINF:-1,NHK WORLD
+http://c004.p124.edgesuite.net/i/c004/nhkw_1@137796/master.m3u8
+#EXTINF:-1,Russia Today
+http://c004.p125.edgesuite.net/i/c004/russia_1@137797/master.m3u8
+#EXTINF:-1,SKY News
+http://c004.p106.edgesuite.net/i/c004/skynews_1@97511/master.m3u8
+#EXTINF:-1,RSI La 1 HD
+http://c004.p103.edgesuite.net/i/c004/rsila1hd_1@97410/master.m3u8
+#EXTINF:-1,RSI La 2 HD
+http://c004.p103.edgesuite.net/i/c004/rsila2hd_1@97411/master.m3u8
+#EXTINF:-1,Rai 2
+http://c004.p122.edgesuite.net/i/c004/rai2_1@137763/master.m3u8
+#EXTINF:-1,Rai 3
+http://c004.p122.edgesuite.net/i/c004/rai3_1@137764/master.m3u8
+#EXTINF:-1,Rai Gulp
+http://c004.p122.edgesuite.net/i/c004/raigulp_1@137765/master.m3u8
+#EXTINF:-1,Rai Scuola
+http://c004.p122.edgesuite.net/i/c004/raiscuola_1@137768/master.m3u8
+#EXTINF:-1,Rai Storia
+http://c004.p103.edgesuite.net/i/c004/raistoria_1@97389/master.m3u8
+#EXTINF:-1,Rai Sport 1
+http://c004.p103.edgesuite.net/i/c004/raisport1_1@97387/master.m3u8
+#EXTINF:-1,Rai Sport 2
+http://c004.p122.edgesuite.net/i/c004/raisport2_1@137769/master.m3u8
+#EXTINF:-1,Rai News
+http://c004.p122.edgesuite.net/i/c004/rainews_1@137767/master.m3u8
+#EXTINF:-1,Canale 5
+http://c004.p121.edgesuite.net/i/c004/canale5_1@137760/master.m3u8
+#EXTINF:-1,TV Moda
+http://c004.p103.edgesuite.net/i/c004/tvmoda_1@97383/master.m3u8
+#EXTINF:-1,La7
+http://c004.p122.edgesuite.net/i/c004/la7_1@137762/master.m3u8
+#EXTINF:-1,BVN TV
+http://c004.p125.edgesuite.net/i/c004/bvnsat_1@137800/master.m3u8
+#EXTINF:-1,Canal 24 Horas
+http://c004.p125.edgesuite.net/i/c004/canal24_1@137803/master.m3u8
+#EXTINF:-1,CCTV-4
+http://c004.p101.edgesuite.net/i/c004/cctv4_1@97343/master.m3u8
+#EXTINF:-1,HRT 4
+http://c004.p107.edgesuite.net/i/c004/hrt1_1@97519/master.m3u8
+#EXTINF:-1,OBN
+http://c004.p125.edgesuite.net/i/c004/obn_1@137799/master.m3u8
+#EXTINF:-1,RTR Planeta
+http://c004.p125.edgesuite.net/i/c004/rtrp_1@137802/master.m3u8
+#EXTINF:-1,Record TV
+http://c004.p106.edgesuite.net/i/c004/record_1@97504/master.m3u8
+#EXTINF:-1,RTP Internacional
+http://c004.p101.edgesuite.net/i/c004/rtp_1@97341/master.m3u8
+#EXTINF:-1,RTS Sat
+http://c004.p125.edgesuite.net/i/c004/rts_1@137798/master.m3u8
+#EXTINF:-1,TV Galicia
+http://c004.p103.edgesuite.net/i/c004/tvga_1@97384/master.m3u8
+#EXTINF:-1,TVE Int.
+http://c004.p101.edgesuite.net/i/c004/tve_1@97339/master.m3u8
