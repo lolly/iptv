@@ -119,7 +119,7 @@ http://tvservice.webhop.me:80/live/Altair/Altair/2607.m3u8
 #EXTINF:-1,RTL
 http://tvservice.webhop.me:80/live/Altair/Altair/1599.m3u8
 #EXTINF:-1,RTL 2
-http://tvservice.webhop.me:80/live/Altair/Altair/1600.m3u8
+http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1,Super Rtl
 http://tvservice.webhop.me:80/live/Altair/Altair/1601.m3u8
 #EXTINF:-1,RTL Nitro DE
